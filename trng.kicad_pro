@@ -380,7 +380,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "fabrication-data/trng.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
